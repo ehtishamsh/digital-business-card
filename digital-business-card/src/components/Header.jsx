@@ -14,10 +14,12 @@ function Header() {
         <h5>laurasmith.website</h5>
         <div className="button_div">
           <button>
-            <FontAwesomeIcon icon={faEnvelope} className="btnIcons" /> Email
+            <FontAwesomeIcon icon={faEnvelope} className="btnIcons" />{" "}
+            <span>Email</span>
           </button>
           <button>
-            <FontAwesomeIcon icon={faLinkedin} className="btnIcons" /> Linkdin
+            <FontAwesomeIcon icon={faLinkedin} className="btnIcons" />{" "}
+            <span>LinkedIn</span>
           </button>
         </div>
       </nav>
