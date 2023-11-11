@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  height: 100vh;
+  background-color: #1c1c1c;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.profile--pic {
+  width: 317px;
+  height: 317px;
+}
+.main--container {
+  background-color: #23252c;
+  padding: 44px 117px 44px 117px;
+  width: 550px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.inside--main--container {
+  background-color: #1a1b21;
+  width: 317px;
+}
+.btnIcons {
+  font-size: 24px;
+}
