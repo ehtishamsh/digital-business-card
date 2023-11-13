@@ -1,6 +1,6 @@
 # React Digital Business Card
 
-![alt text](https://github.com/ehtishamsh/digital-business-card/main/preview.png)
+![alt text](https://github.com/ehtishamsh/digital-business-card/blob/main/preview.png)
 
 Welcome to my digital business card, built using React!
 
